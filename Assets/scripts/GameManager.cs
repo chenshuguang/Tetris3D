@@ -7,8 +7,8 @@ public class GameManager : MonoBehaviour
 
     public GameObject[] blocks;
     public Transform cube;
-    public Transform leftWall;
-    public Transform rightWall;
+    //public Transform leftWall;
+    //public Transform rightWall;
     public int maxBlockSize = 4;
     public int _fieldWidth = 10;
     public int _fieldHeight = 13;
